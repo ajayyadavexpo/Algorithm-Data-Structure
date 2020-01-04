@@ -1,1 +1,1 @@
-# Algorithm in c language
+#Data structure and algorith read it in deapth 
