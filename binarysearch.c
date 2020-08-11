@@ -1,4 +1,4 @@
-// Binary searth
+// Binary searth in c language
 #include<stdio.h>
 int main(){
 	int a[5]={2,4,6,8,12},n=5,target=8,first=0,last=0,middle=0,step=0;
